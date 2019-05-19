@@ -1,0 +1,9 @@
+header{
+    color: green;
+}
+
+#content{
+    margin: 20px;
+    border: 1px solid green;
+    color: green;
+}
